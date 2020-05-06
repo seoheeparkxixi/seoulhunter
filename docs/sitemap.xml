@@ -3,15 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://www.seoulhunter.cc/</loc>
+    <lastmod>2020-05-05T14:14:39+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://www.seoulhunter.cc/posts/</loc>
+    <lastmod>2020-05-05T14:14:39+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://www.seoulhunter.cc/posts/second-post/</loc>
+    <lastmod>2020-05-05T14:14:39+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.seoulhunter.cc/posts/my-first-post/</loc>
+    <lastmod>2020-05-05T14:07:25+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.seoulhunter.cc/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.seoulhunter.cc/tags/</loc>
   </url>
   
 </urlset>

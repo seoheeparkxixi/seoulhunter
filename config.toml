@@ -1,10 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "http://www.seoulhunter.cc/"
 languageCode = "ko-kr"
 title = "City Hunter. Seoul"
-theme = "Origin"
-
-
-
+theme = "origin"
 
 
 publishDir = "docs"

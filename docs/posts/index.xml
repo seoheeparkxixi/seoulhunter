@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on City Hunter. Seoul</title>
-    <link>http://example.org/posts/</link>
+    <link>http://www.seoulhunter.cc/posts/</link>
     <description>Recent content in Posts on City Hunter. Seoul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <lastBuildDate>Tue, 05 May 2020 14:14:39 +0900</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.seoulhunter.cc/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>지하철 스파이</title>
-      <link>http://example.org/posts/second-post/</link>
+      <link>http://www.seoulhunter.cc/posts/second-post/</link>
       <pubDate>Tue, 05 May 2020 14:14:39 +0900</pubDate>
       
-      <guid>http://example.org/posts/second-post/</guid>
+      <guid>http://www.seoulhunter.cc/posts/second-post/</guid>
       <description>지하철 스파이 </description>
     </item>
     
     <item>
       <title>낮잠 지도</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>http://www.seoulhunter.cc/posts/my-first-post/</link>
       <pubDate>Tue, 05 May 2020 14:07:25 +0900</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>서울에서 소비없이 놀 수 있는 방법 10가지    낮잠자기    아무거나    </description>
+      <guid>http://www.seoulhunter.cc/posts/my-first-post/</guid>
+      <description>서울에서 소비없이 놀 수 있는 방법 10가지    낮잠자기    </description>
     </item>
     
   </channel>
