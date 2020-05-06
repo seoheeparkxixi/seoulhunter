@@ -5,5 +5,7 @@ theme = "origin"
 
 
 publishDir = "docs"
+
+tags = ["blog", "responsive", "light", "simple"]
 [params]
   featured = false
