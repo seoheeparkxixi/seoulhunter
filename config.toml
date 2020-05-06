@@ -5,3 +5,5 @@ theme = "origin"
 
 
 publishDir = "docs"
+[params]
+  featured = false
