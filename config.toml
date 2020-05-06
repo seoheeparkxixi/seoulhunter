@@ -1,4 +1,4 @@
-baseURL = "http://www.seoulhunter.cc/"
+baseURL = "https://www.seoulhunter.cc/"
 languageCode = "ko-kr"
 title = "City Hunter. Seoul"
 theme = "origin"
